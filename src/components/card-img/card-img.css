@@ -1,0 +1,9 @@
+.card__picture{
+    height: 150px;
+    flex: 1 0 auto;
+    overflow: hidden;
+}
+
+.card__picture img{
+    width: 100%;
+}
